@@ -1,0 +1,1 @@
+<h1 color="blue">Welcome to REENAS Food Products</h1><?php /**PATH C:\laragon\www\ReenasFoodProducts\resources\views/welcome1.blade.php ENDPATH**/ ?>
